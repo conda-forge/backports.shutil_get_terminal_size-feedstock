@@ -69,9 +69,10 @@ Terminology
 
 Current build status
 ====================
+
 Linux: [![Circle CI](https://circleci.com/gh/conda-forge/backports.shutil_get_terminal_size-feedstock.svg?style=svg)](https://circleci.com/gh/conda-forge/backports.shutil_get_terminal_size-feedstock)
 OSX: [![TravisCI](https://travis-ci.org/conda-forge/backports.shutil_get_terminal_size-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/backports.shutil_get_terminal_size-feedstock) 
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/backports.shutil_get_terminal_size-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/backports.shutil_get_terminal_size-feedstock/branch/master)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/backports-shutil-get-terminal-size-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/backports-shutil-get-terminal-size-feedstock/branch/master)
 
 Current release info
 ====================
