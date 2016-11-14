@@ -33,7 +33,6 @@ conda search backports.shutil_get_terminal_size --channel conda-forge
 ```
 
 
-
 About conda-forge
 =================
 
