@@ -7,16 +7,14 @@ Package license: MIT
 
 Feedstock license: BSD 3-Clause
 
-Summary: A backport of the get_terminal_size function from Python 3.3's shutil
+Summary: A backport of the get_terminal_size function from Python 3.3's shutil.
 
 
 
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/backports.shutil_get_terminal_size-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/backports.shutil_get_terminal_size-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/backports.shutil_get_terminal_size-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/backports.shutil_get_terminal_size-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/backports.shutil_get_terminal_size-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/backports-shutil-get-terminal-size-feedstock/branch/master)
+All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/backports.shutil_get_terminal_size-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/backports.shutil_get_terminal_size-feedstock)
 
 Current release info
 ====================
