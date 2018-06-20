@@ -14,12 +14,15 @@ Summary: A backport of the get_terminal_size function from Python 3.3's shutil.
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/backports.shutil_get_terminal_size-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/backports.shutil_get_terminal_size-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/backports.shutil_get_terminal_size-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/backports.shutil_get_terminal_size-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/backports.shutil_get_terminal_size/badges/version.svg)](https://anaconda.org/conda-forge/backports.shutil_get_terminal_size)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/backports.shutil_get_terminal_size/badges/downloads.svg)](https://anaconda.org/conda-forge/backports.shutil_get_terminal_size)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-backports.shutil_get_terminal_size-green.svg)](https://anaconda.org/conda-forge/backports.shutil_get_terminal_size) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/backports.shutil_get_terminal_size.svg)](https://anaconda.org/conda-forge/backports.shutil_get_terminal_size) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/backports.shutil_get_terminal_size.svg)](https://anaconda.org/conda-forge/backports.shutil_get_terminal_size) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/backports.shutil_get_terminal_size.svg)](https://anaconda.org/conda-forge/backports.shutil_get_terminal_size) |
 
 Installing backports.shutil_get_terminal_size
 =============================================
